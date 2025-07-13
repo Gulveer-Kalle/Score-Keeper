@@ -1,4 +1,4 @@
-# 🏏 Score Keeper – Cricket Match Management App
+# 🏏 Score Keeper – Cricket Scoring App
 
 A mobile-first app that helps you manage cricket matches like a pro — track teams, players, and scores effortlessly.
 
