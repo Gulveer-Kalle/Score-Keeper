@@ -34,16 +34,16 @@ Built with **React Native**, **Expo**, and **Firebase**, all core functionalitie
 > ⚠ Screens shown are from development previews. Full mobile UI will be polished soon.
 
 ### 🔐 Login Screen  
-![Login](screenshots/ScreenShot_3.png)
+![Login](Screenshots/ScreenShot_3.png)
 
 ### 🏠 Home/Match Screen  
-![Home](screenshots/ScreenShot_4.png)
+![Home](Screenshots/ScreenShot_4.png)
 
 ### 👥 Team Screen  
-![Team](screenshots/ScreenShot_7.png)
+![Team](Screenshots/ScreenShot_7.png)
 
 ### 🧑 Team Stats Screen  
-![Player](screenshots/ScreenShot_8.png)
+![Player](Screenshots/ScreenShot_8.png)
 
 <!-- Match UI and stats screen images to be added later -->
 
