@@ -41,8 +41,8 @@ Built with **React Native**, **Expo**, and **Firebase**, all core functionalitie
 
 ### 👥 Teams Screen & 🧑 Team Stats Screen
 <p float="left">
-  <img src="Screenshots/ScreenShot_7.png" width="250" />
-  <img src="Screenshots/ScreenShot_8.png" width="250" />
+  <img src="Screenshots/ScreenShot_7.png" height="300" style="margin-right: 15px;" />
+  <img src="Screenshots/ScreenShot_8.png" height="300" />
 </p>
 
 <!-- Match UI and stats screen images to be added later -->
