@@ -41,7 +41,7 @@ Built with **React Native**, **Expo**, and **Firebase**, all core functionalitie
 
 ### 👥 Teams Screen (Mobile) & 🧑 Team Stats Screen (Mobile)
 <p float="left">
-  <img src="Screenshots/ScreenShot_7.png" height="500" style="padding-right: 150px;" />
+  <img src="Screenshots/ScreenShot_7.png" height="500" margin-right="150" />
   <img src="Screenshots/ScreenShot_8.png" height="500" />
 </p>
 
