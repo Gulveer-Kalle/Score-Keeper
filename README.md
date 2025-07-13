@@ -4,7 +4,7 @@ A mobile-first app that helps you manage cricket matches like a pro — track te
 
 ## Description
 
-**Score Keeper** is built for scorers, organizers, and cricket enthusiasts who want a lightweight yet powerful solution for managing cricket matches. The app allows you to create teams, link players to user accounts, set up matches with overs and toss, and track scores and stats in real time.
+**Score Keeper** is built for scorers, organizers, and cricket enthusiasts who want a powerful solution for managing cricket matches. The app allows you to create teams, link players to user accounts, set up matches with overs and toss, and track scores and stats in real time.
 
 Built with **React Native**, **Expo**, and **Firebase**, all core functionalities are complete and functional. UI screens for some modules are still in development.
 
@@ -49,8 +49,7 @@ Built with **React Native**, **Expo**, and **Firebase**, all core functionalitie
 
 ## Future Enhancements
 
-- 🎥 **Live YouTube Score Streaming** with auto-updating scoreboard
-- 🏆 **Tournament Creation & Leaderboards**
-- 🧾 Match attendance and umpire notes
+- 🎥 Live YouTube Score Streaming with auto-updating scoreboard
+- 🏆 Tournament Creation & Leaderboards
+- 🧾 Match attendance and umpire controls
 - 📱 Offline mode with auto-sync on reconnect
-- 🌍 Multi-language support
